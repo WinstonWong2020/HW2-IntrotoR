@@ -18,7 +18,7 @@ mymean(c(8,10,12))
 data <- read.csv("key_crop_yields.csv")
 x <- data[,3]
 range(x)
-colRanges(Year)
+
 
 ```
 
